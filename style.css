@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0.5%;
+    margin: 0.5%
+}
+
+body {
+    background: lightblue;
+    padding: 0.5%;
+}
+
+
+
+#profile {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#name {
+    border: 2px solid black;
+    width: 80%;
+    margin: 10%;
+    padding: 2%;
+}
+
+#list {
+    border: 2px solid black;
+    width: 80%;
+    margin: 10%;
+}
+
+img {
+    width: 250px;
+}
